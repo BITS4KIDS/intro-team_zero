@@ -1,0 +1,8 @@
+node_modules/
+.nyc*
+build/
+coverage/
+dist/
+yarn-error*.log
+yarn.lock*
+npm-debug*.log
